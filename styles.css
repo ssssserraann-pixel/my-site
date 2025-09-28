@@ -45,7 +45,7 @@ h2{border-left:6px solid #111;padding-left:10px;margin-top:24px}
 .hero{
   position: relative;
   min-height: 70vh;                    /* 画面の7割くらいの高さ */
-  background: url('名称未設定のデザイン.png.png') center/cover no-repeat;
+  background: url('hero.png') center/cover no-repeat;
   color: #fff;
   display:flex; align-items:center; justify-content:center;
   text-align:center; padding: 120px 20px;
