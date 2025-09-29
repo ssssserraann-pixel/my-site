@@ -70,5 +70,11 @@ h2{border-left:6px solid #111;padding-left:10px;margin-top:24px}
   text-align: center;
 }
 
+.content-img {
+  max-width: 100%;   /* 画面幅いっぱいに広がる */
+  height: auto;      /* 縦横比はそのまま */
+  border-radius: 12px;  /* 角を丸くしておしゃれに */
+  margin-top: 20px;  /* 上に余白を入れる */
+}
 
 
