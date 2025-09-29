@@ -76,5 +76,17 @@ h2{border-left:6px solid #111;padding-left:10px;margin-top:24px}
   border-radius: 12px;  /* 角を丸くしておしゃれに */
   margin-top: 20px;  /* 上に余白を入れる */
 }
+.plan-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.plan-img {
+  width: 80px;
+  height: auto;
+  margin-right: 10px;
+  border-radius: 8px;
+}
 
 
